@@ -46,7 +46,7 @@ Run 'npm run build' to build the code after editing it.
 
 ### Mauricio Cantillo Moreno
 
-- GitHub: [@Zeraltz](https://github.com/Zeraltz)
+- GitHub: [@Zeraltz](https://github.com/Andyveloper)
 - Twitter: [@MauroCantillo_](https://twitter.com/MauroCantillo_)
 - LinkedIn: [Mauricio Cantillo Moreno](https://www.linkedin.com/in/mauricio-cantillo-moreno/)
 
